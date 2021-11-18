@@ -23,4 +23,5 @@ mvn io.takari.polyglot:polyglot-translate-plugin:translate -Dinput=pom.xml -Dout
 
 ### 3. IntelliJ POM recognition
 If you use IntelliJ IDE
+
 ![image](https://user-images.githubusercontent.com/9425680/142365633-8d628adb-d148-4829-978a-0e939ee3394a.png)
